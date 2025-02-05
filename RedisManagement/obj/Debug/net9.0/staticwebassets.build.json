@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ksZeU5vFM+CruL1m0/UAfOFLsDBmBgbCWl6LOoi463s=",
+  "Source": "RedisManagement",
+  "BasePath": "_content/RedisManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

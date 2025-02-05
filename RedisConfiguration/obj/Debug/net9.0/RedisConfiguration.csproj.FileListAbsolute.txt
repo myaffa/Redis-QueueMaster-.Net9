@@ -1,0 +1,13 @@
+C:\Users\kambi\source\repos\RedisManagement\RedisConfiguration\bin\Debug\net9.0\Configuration\appsettings.redis.json
+C:\Users\kambi\source\repos\RedisManagement\RedisConfiguration\bin\Debug\net9.0\RedisConfiguration.deps.json
+C:\Users\kambi\source\repos\RedisManagement\RedisConfiguration\bin\Debug\net9.0\RedisConfiguration.dll
+C:\Users\kambi\source\repos\RedisManagement\RedisConfiguration\bin\Debug\net9.0\RedisConfiguration.pdb
+C:\Users\kambi\source\repos\RedisManagement\RedisConfiguration\obj\Debug\net9.0\RedisConfiguration.csproj.AssemblyReference.cache
+C:\Users\kambi\source\repos\RedisManagement\RedisConfiguration\obj\Debug\net9.0\RedisConfiguration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kambi\source\repos\RedisManagement\RedisConfiguration\obj\Debug\net9.0\RedisConfiguration.AssemblyInfoInputs.cache
+C:\Users\kambi\source\repos\RedisManagement\RedisConfiguration\obj\Debug\net9.0\RedisConfiguration.AssemblyInfo.cs
+C:\Users\kambi\source\repos\RedisManagement\RedisConfiguration\obj\Debug\net9.0\RedisConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\kambi\source\repos\RedisManagement\RedisConfiguration\obj\Debug\net9.0\RedisConfiguration.dll
+C:\Users\kambi\source\repos\RedisManagement\RedisConfiguration\obj\Debug\net9.0\refint\RedisConfiguration.dll
+C:\Users\kambi\source\repos\RedisManagement\RedisConfiguration\obj\Debug\net9.0\RedisConfiguration.pdb
+C:\Users\kambi\source\repos\RedisManagement\RedisConfiguration\obj\Debug\net9.0\ref\RedisConfiguration.dll

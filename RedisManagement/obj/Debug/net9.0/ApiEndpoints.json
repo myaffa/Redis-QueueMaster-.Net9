@@ -1,0 +1,112 @@
+[
+  {
+    "ContainingType": "RedisManagement.Controllers.HomeController",
+    "Method": "AcquireLockAsync",
+    "RelativePath": "api/Home/acquire-lock/{category}/{lockID}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "lockID",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RedisManagement.Controllers.HomeController",
+    "Method": "ExtendLockAsync",
+    "RelativePath": "api/Home/extend-lock/{category}/{lockID}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "lockID",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RedisManagement.Controllers.HomeController",
+    "Method": "IsLockedAsync",
+    "RelativePath": "api/Home/is-locked/{category}/{lockID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "lockID",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RedisManagement.Controllers.HomeController",
+    "Method": "ReleaseLockAsync",
+    "RelativePath": "api/Home/release-lock/{category}/{lockID}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "lockID",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RedisManagement.Controllers.HomeController",
+    "Method": "SendMessage",
+    "RelativePath": "api/Home/send-message/{queue}/{queueName}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "queue",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "queueName",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "text",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
